@@ -14,13 +14,8 @@ Under the hood, this client is built with Vite, React, and TypeScript, using Red
 
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
-3. [Project Structure](#project-structure)
-4. [Getting Started](#getting-started)
-5. [Available Scripts](#available-scripts)
-6. [Design Decisions](#design-decisions)
-7. [Form Handling](#form-handling)
-8. [Real-Time Updates](#real-time-updates)
-9. [Linting & Formatting](#linting--formatting)
+3. [Getting Started](#getting-started)
+4. [Linting & Formatting](#linting--formatting)
 
 ---
 
